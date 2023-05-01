@@ -4,5 +4,5 @@ public class Sales {
     //20% off
     //dsicounts everywhere!
 
-
+    //more sales added
 }
