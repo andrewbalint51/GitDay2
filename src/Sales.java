@@ -5,4 +5,6 @@ public class Sales {
     //dsicounts everywhere!
 
     //more sales added
+
+    //Holiday sales
 }
